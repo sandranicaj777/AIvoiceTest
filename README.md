@@ -2,7 +2,7 @@
 
 A sweet, voice-enabled AI assistant that simulates a healthcare front desk scenario, handling appointment scheduling and insurance verification with warm, natural conversation.
 
-##Features
+#Features
 
 - **Voice Interface**: Speech-to-text and text-to-speech capabilities
 - **AI-Powered Conversations**: GPT-3.5-turbo driven natural dialogue
@@ -11,7 +11,7 @@ A sweet, voice-enabled AI assistant that simulates a healthcare front desk scena
 - **Sweet Personality**: Warm, empathetic healthcare-appropriate tone
 - **Fallback Support**: Works even without API keys (text-only mode)
 
-##Use Cases
+#Use Cases
 
 - **Appointment Booking**: "I need to see a doctor about a rash next week"
 - **Insurance Check**: "Do you accept Blue Cross insurance?"
@@ -104,7 +104,8 @@ Single Speaker: Optimized for one person at a time
 English Only: Primary language support
 
 Demo
+
 Check the examples/ folder for sweet audio demonstrations!
 
-Created with 💖 for the Confido AI take-home challenge
+Created with 💖 
 
